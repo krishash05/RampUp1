@@ -86,14 +86,14 @@ float: right;
 	width: 30%;
 	float: left;
 	display: block;
-	height: 20px;
-	background: green;
+	height: 100px;
+	background: black;
 	}
 
 .Post .content {
 	width: 70%;
 	float: left;
 	display: block;
-	height: 20px;
-	background: pink;
+	height: 100px;
+	background: white;
 	}
